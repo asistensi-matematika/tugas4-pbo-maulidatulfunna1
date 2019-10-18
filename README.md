@@ -1,8 +1,9 @@
+
 # TUGAS 4 ASISTENSI PBO - Jumat, 11 Oktober 2019
 
-NAMA: `isi nama disini`
+NAMA: MAULIDATUL FUNNA
 
-NRP: `isi nrp disini`
+NRP: 06111840007002
 
 ## Deskripsi Tugas
 
@@ -32,7 +33,14 @@ NRP: `isi nrp disini`
 **catatan** \
  ```asumsikan merupakan segitiga sama sisi```
 ## Screenshot hasil
-masukkan screenshot output disini
+
+
+![image](https://user-images.githubusercontent.com/56143928/67060107-ccc64100-f185-11e9-9b01-84ad3f0d353b.png)
+![image](https://user-images.githubusercontent.com/56143928/67060235-2e86ab00-f186-11e9-84a1-9adad6eeff41.png)
+![image](https://user-images.githubusercontent.com/56143928/67060248-3ba39a00-f186-11e9-829a-2442dd213eac.png)
+![image](https://user-images.githubusercontent.com/56143928/67060267-46f6c580-f186-11e9-8539-3e3964054fa4.png)
+
+
 
 ## Upload
 upload seluruh folder project java-nya ke repository ini
